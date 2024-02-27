@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Chrismarkit143
+- 👀 I’m interested in SQL, data analysis, and database management.
+- 🌱 I’m currently learning advanced SQL techniques and data visualization tools.
+- 💞️ I’m looking to collaborate on SQL projects, data analysis tasks, and database optimization challenges.
+- 📫 How to reach me: You can reach me via email at chrismarkson365@outlook.com or connect with me on LinkedIn here: https://www.linkedin.com/in/christian-m-20723325a
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: As a beginner, I once spent hours troubleshooting a simple SQL syntax error, only to realize it was a missing semicolon at the end of my query! It was a valuable lesson in attention to detail and the importance of syntax in SQL programming.
